@@ -1,0 +1,5 @@
+files:
+  - source: /locale/*.yml
+    ignore:
+      - /locale/*.*.yml
+    translation: /locale/%file_name%.%two_letters_code%.yml

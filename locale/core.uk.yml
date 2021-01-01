@@ -7,15 +7,15 @@ core:
   admin:
     #These translations are used in the Appearance page.
     appearance:
-      colored_header_label: Colored Header
-      colors_heading: Colors
-      colors_text: "Choose two colors to theme your forum with. The first will be used as a highlight color, while the second will be used to style background elements."
-      custom_footer_heading: Custom Footer
+      colored_header_label: Кольоровий шапка
+      colors_heading: Кольори
+      colors_text: "Виберіть два кольори для стилізації форуму. Перший буде використовуватися в якості кольору підсвічування, другий буде використовуватися в якості фону стильових елементів."
+      custom_footer_heading: Користувальницький футер
       custom_footer_text: '=> core.ref.custom_footer_text'
-      custom_header_heading: Custom Header
+      custom_header_heading: Користувальницький заголовок
       custom_header_text: '=> core.ref.custom_header_text'
-      custom_styles_heading: Custom Styles
-      custom_styles_text: Customize your forum's appearance by adding your own LESS/CSS code to be applied on top of Flarum's default styles.
+      custom_styles_heading: Призначені для користувача стилі
+      custom_styles_text: Налаштування зовнішнього вигляду форуму за допомогою призначеного для користувача коду LESS/CSS, який перекриває стандартні стильові конструкції Flarum.
       dark_mode_label: Dark Mode
       description: "Customize your forum's colors, logos, and other variables."
       edit_css_button: Edit Custom CSS
